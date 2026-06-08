@@ -41,8 +41,5 @@ Based on the data analysis, I developed a 4-point strategic roadmap for the stak
 ---
 
 ## 🚀 How to Explore the Analysis
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/YOUR_GITHUB_HANDLE/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_HANDLE/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone https://github.com/aansikkaw/seo-market-analysis.git
+cd seo-market-analysis
