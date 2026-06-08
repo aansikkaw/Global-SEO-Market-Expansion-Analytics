@@ -58,7 +58,6 @@ Correct heuristic mismatches where generalized pages are ranking for unrelated q
 
 ## 📁 Repository Structure
 * `SEO_Data_Analysis.ipynb`: The Python analytics pipeline (EDA, anomaly detection, visualizations).
-* `big-sports.csv`: The cleaned dataset.
 * `requirements.txt`: Environment dependencies.
 
 ## 🚀 How to Explore the Analysis
